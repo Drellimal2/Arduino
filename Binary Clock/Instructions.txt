@@ -1,0 +1,6 @@
+1) Set up your circuit as shown in the diagram.
+2) Connect your Arduino to your compuer and run the code.
+3) Run the python script. 
+	NB: Depending on the port your device is running on you may have to change the port in the script
+4)Before disconnecting your device from your computer connect an external power supply. 
+5) Unplug if desired.
